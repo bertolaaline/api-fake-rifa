@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api do fake rifa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "fake",
+    "rifa"
+  ],
+  "author": "aline",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
