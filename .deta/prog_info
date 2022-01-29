@@ -1,1 +1,1 @@
-{"id":"70a3b8b5-d2b2-486b-81af-295abc6ae8e5","space":16889,"runtime":"nodejs14.x","name":"rifa","path":"z73is0","project":"b0vkvq0z","account":"144798365827","region":"sa-east-1","deps":["express@^4.17.2"],"envs":null,"public":true,"log_level":"debug","cron":""}
+{"id":"70a3b8b5-d2b2-486b-81af-295abc6ae8e5","space":16889,"runtime":"nodejs14.x","name":"rifa","path":"z73is0","project":"b0vkvq0z","account":"144798365827","region":"sa-east-1","deps":["express@^4.17.2","deta@^1.0.1"],"envs":null,"public":true,"log_level":"debug","cron":""}

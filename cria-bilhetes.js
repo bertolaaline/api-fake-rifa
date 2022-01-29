@@ -1,8 +1,4 @@
-const { Deta } = require("deta")
-
-const deta = Deta("b0vkvq0z_7hyNZmJQCsYWsyBVooppeT99T9qYapM9")
-
-const db = deta.Base("bilhetes")
+const db = require("./db")
 
 const quantidadeDeBilhetes = 100
 
