@@ -16,5 +16,8 @@
   "dependencies": {
     "deta": "^1.0.1",
     "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "dotenv": "^14.3.2"
   }
 }
